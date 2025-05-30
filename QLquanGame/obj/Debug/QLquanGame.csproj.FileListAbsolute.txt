@@ -343,3 +343,4 @@ C:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.CoreCompileInputs.cache
 C:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.Up2Date
 C:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.exe
 C:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.pdb
+C:\QLquanGame\QLquanGame\bin\Debug\Resources\2d722ea4ebecd7aa72eee217b7477404.jpg

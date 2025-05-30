@@ -490,49 +490,49 @@ namespace QLquanGame
         }
     }
 
-    private void btnThemloai_Click(object sender, EventArgs e)
-    {
-        string tenLoai = Interaction.InputBox("Nhập tên loại món mới:", "Thêm loại món", "");
-        if (string.IsNullOrWhiteSpace(tenLoai))
+        private void btnThemloai_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Tên loại không được để trống!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-            return;
-        }
-
-        try
-        {
-            int count = (int)DataProvider.Instance.ExecuteScalar("SELECT COUNT(*) FROM LoaiMon WHERE TenLoai = @tenLoai", new[] { ("@tenLoai", (object)tenLoai) });
-            if (count > 0)
+            string tenLoai = Interaction.InputBox("Nhập tên loại món mới:", "Thêm loại món", "");
+            if (string.IsNullOrWhiteSpace(tenLoai))
             {
-                MessageBox.Show("Tên loại đã tồn tại!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Tên loại không được để trống!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
 
-            using (SqlConnection conn = DataProvider.Instance.GetConnection())
+            try
             {
-                conn.Open();
-                int newMaLoai = Convert.ToInt32(DataProvider.Instance.ExecuteScalar("SELECT ISNULL(MAX(MaLoai), 0) + 1 FROM LoaiMon"));
-                int rowsAffected = DataProvider.Instance.ExecuteNonQuery("INSERT INTO LoaiMon (MaLoai, TenLoai) VALUES (@maLoai, @tenLoai)",
-                    new[] { ("@maLoai", newMaLoai), ("@tenLoai", (object)tenLoai) });
+                int count = (int)DataProvider.Instance.ExecuteScalar(
+                    "SELECT COUNT(*) FROM LoaiMon WHERE TenLoai = @tenLoai",
+                    new[] { ("@tenLoai", (object)tenLoai) });
+
+                if (count > 0)
+                {
+                    MessageBox.Show("Tên loại đã tồn tại!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    return;
+                }
+
+                // KHÔNG cần tạo MaLoai nữa
+                int rowsAffected = DataProvider.Instance.ExecuteNonQuery(
+                    "INSERT INTO LoaiMon (TenLoai) VALUES (@tenLoai)",
+                    new[] { ("@tenLoai", (object)tenLoai) });
 
                 if (rowsAffected > 0)
                 {
                     MessageBox.Show("Thêm thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    TaiDanhMucMon();
+                    TaiDanhMucMon(); // Cập nhật lại giao diện loại món
                 }
                 else
                 {
                     MessageBox.Show("Thêm thất bại!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Lỗi khi thêm loại món: {ex.Message}", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
-        catch (Exception ex)
-        {
-            MessageBox.Show($"Lỗi khi thêm loại món: {ex.Message}", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
-        }
-    }
 
-    private void btnXoamon_Click(object sender, EventArgs e)
+        private void btnXoamon_Click(object sender, EventArgs e)
     {
         if (dgvGioHang.CurrentRow != null)
         {

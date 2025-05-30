@@ -155,7 +155,7 @@
             this.flpMonAn.Location = new System.Drawing.Point(152, 120);
             this.flpMonAn.Margin = new System.Windows.Forms.Padding(2);
             this.flpMonAn.Name = "flpMonAn";
-            this.flpMonAn.Size = new System.Drawing.Size(296, 424);
+            this.flpMonAn.Size = new System.Drawing.Size(397, 424);
             this.flpMonAn.TabIndex = 22;
             // 
             // pnlfooter
