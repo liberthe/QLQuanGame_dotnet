@@ -1,0 +1,126 @@
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DAL.dll
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DAL.pdb
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLQG.DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLQG.DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.AssemblyReference.cache
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.Up2Date
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.dll
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.pdb
+D:\tài liệu học tập\BTL .net\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DAL.dll
+D:\tài liệu học tập\BTL .net\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DAL.pdb
+D:\tài liệu học tập\BTL .net\QLquanGame\QLQG.DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\tài liệu học tập\BTL .net\QLquanGame\QLQG.DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\tài liệu học tập\BTL .net\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.AssemblyReference.cache
+D:\tài liệu học tập\BTL .net\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.CoreCompileInputs.cache
+D:\tài liệu học tập\BTL .net\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.Up2Date
+D:\tài liệu học tập\BTL .net\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.dll
+D:\tài liệu học tập\BTL .net\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.pdb
+D:\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DAL.dll
+D:\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DAL.pdb
+D:\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.dll
+D:\QLquanGame\QLQG.DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.pdb
+D:\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.dll.config
+D:\QLquanGame\QLQG.DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.AssemblyReference.cache
+D:\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.CoreCompileInputs.cache
+D:\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.Up2Date
+D:\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.dll
+D:\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.pdb
+E:\Ngọc\Lập trình .NET\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DAL.dll
+E:\Ngọc\Lập trình .NET\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DAL.pdb
+E:\Ngọc\Lập trình .NET\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.dll
+E:\Ngọc\Lập trình .NET\QLquanGame\QLQG.DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Ngọc\Lập trình .NET\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.pdb
+E:\Ngọc\Lập trình .NET\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.dll.config
+E:\Ngọc\Lập trình .NET\QLquanGame\QLQG.DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Ngọc\Lập trình .NET\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.AssemblyReference.cache
+E:\Ngọc\Lập trình .NET\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.CoreCompileInputs.cache
+E:\Ngọc\Lập trình .NET\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.Up2Date
+E:\Ngọc\Lập trình .NET\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.dll
+E:\Ngọc\Lập trình .NET\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.pdb
+C:\Users\ASUS\Downloads\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DAL.dll
+C:\Users\ASUS\Downloads\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DAL.pdb
+C:\Users\ASUS\Downloads\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.dll
+C:\Users\ASUS\Downloads\QLquanGame\QLQG.DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Downloads\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.pdb
+C:\Users\ASUS\Downloads\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.dll.config
+C:\Users\ASUS\Downloads\QLquanGame\QLQG.DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ASUS\Downloads\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.CopyComplete
+C:\Users\ASUS\Downloads\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.dll
+C:\Users\ASUS\Downloads\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.pdb
+C:\Users\HP\Downloads\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DAL.dll
+C:\Users\HP\Downloads\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DAL.pdb
+C:\Users\HP\Downloads\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.dll
+C:\Users\HP\Downloads\QLquanGame\QLQG.DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Downloads\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.pdb
+C:\Users\HP\Downloads\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.dll.config
+C:\Users\HP\Downloads\QLquanGame\QLQG.DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\HP\Downloads\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.Up2Date
+C:\Users\HP\Downloads\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.dll
+C:\Users\HP\Downloads\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.pdb
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DAL.dll
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DAL.pdb
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.dll
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.pdb
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.dll.config
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.AssemblyReference.cache
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.CoreCompileInputs.cache
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.Up2Date
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.dll
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.pdb
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DAL.dll
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DAL.pdb
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.dll
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.pdb
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.dll.config
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.AssemblyReference.cache
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.CoreCompileInputs.cache
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.Up2Date
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.dll
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DAL.dll
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DAL.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.dll
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.dll.config
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.CopyComplete
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.dll
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.pdb
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.AssemblyReference.cache
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DAL.dll
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DAL.pdb
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.dll
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.pdb
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.dll.config
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLQG.DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.Up2Date
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.dll
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.pdb
+C:\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DAL.dll
+C:\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DAL.pdb
+C:\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.dll
+C:\QLquanGame\QLQG.DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.pdb
+C:\QLquanGame\QLQG.DAL\bin\Debug\QLQG.DTO.dll.config
+C:\QLquanGame\QLQG.DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.AssemblyReference.cache
+C:\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.CoreCompileInputs.cache
+C:\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.csproj.Up2Date
+C:\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.dll
+C:\QLquanGame\QLQG.DAL\obj\Debug\QLQG.DAL.pdb

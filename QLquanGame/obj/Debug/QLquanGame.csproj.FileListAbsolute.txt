@@ -1,0 +1,345 @@
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLquanGame\bin\Debug\QLquanGame.exe.config
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLquanGame\bin\Debug\QLquanGame.exe
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLquanGame\bin\Debug\QLquanGame.pdb
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLquanGame\bin\Debug\QLQG.BLL.dll
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLquanGame\bin\Debug\QLQG.BLL.pdb
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.AssemblyReference.cache
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLquanGame\obj\Debug\QLquanGame.Properties.Resources.resources
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.GenerateResource.cache
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.CoreCompileInputs.cache
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.Up2Date
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLquanGame\obj\Debug\QLquanGame.exe
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLquanGame\obj\Debug\QLquanGame.pdb
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLquanGame\bin\Debug\QLQG.DAL.dll
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLquanGame\bin\Debug\QLQG.DAL.pdb
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmLogin.resources
+C:\Users\Mias PC\OneDrive\QBN\Documents\Visual Studio 2022\QLquanGame\QLquanGame\obj\Debug\QLquanGame.MainForm.resources
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\bin\Debug\QLquanGame.exe.config
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\bin\Debug\QLquanGame.exe
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\bin\Debug\QLquanGame.pdb
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\bin\Debug\QLQG.BLL.dll
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\bin\Debug\QLQG.DAL.dll
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\bin\Debug\QLQG.BLL.pdb
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\bin\Debug\QLQG.DAL.pdb
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.AssemblyReference.cache
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmLogin.resources
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\obj\Debug\QLquanGame.MainForm.resources
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\obj\Debug\QLquanGame.Properties.Resources.resources
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.GenerateResource.cache
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.CoreCompileInputs.cache
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.Up2Date
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\obj\Debug\QLquanGame.exe
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\obj\Debug\QLquanGame.pdb
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\obj\Debug\QLquanGame.FormDatMay.resources
+D:\QLquanGame\QLquanGame\bin\Debug\QLquanGame.exe.config
+D:\QLquanGame\QLquanGame\bin\Debug\QLquanGame.exe
+D:\QLquanGame\QLquanGame\bin\Debug\QLquanGame.pdb
+D:\QLquanGame\QLquanGame\bin\Debug\QLQG.BLL.dll
+D:\QLquanGame\QLquanGame\bin\Debug\QLQG.DAL.dll
+D:\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.dll
+D:\QLquanGame\QLquanGame\bin\Debug\QLQG.BLL.pdb
+D:\QLquanGame\QLquanGame\bin\Debug\QLQG.DAL.pdb
+D:\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.pdb
+D:\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.dll.config
+D:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.AssemblyReference.cache
+D:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.FormDatMay.resources
+D:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmHoadon.resources
+D:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmLogin.resources
+D:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.MainForm.resources
+D:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.Properties.Resources.resources
+D:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.GenerateResource.cache
+D:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.CoreCompileInputs.cache
+D:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.Up2Date
+D:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.exe
+D:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.pdb
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\bin\Debug\QLquanGame.exe.config
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\bin\Debug\QLquanGame.exe
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\bin\Debug\QLquanGame.pdb
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\bin\Debug\QLQG.BLL.dll
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\bin\Debug\QLQG.DAL.dll
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.dll
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\bin\Debug\QLQG.BLL.pdb
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\bin\Debug\QLQG.DAL.pdb
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.pdb
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.dll.config
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.AssemblyReference.cache
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\obj\Debug\QLquanGame.FormDatMay.resources
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmHoadon.resources
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmLogin.resources
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\obj\Debug\QLquanGame.MainForm.resources
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\obj\Debug\QLquanGame.Properties.Resources.resources
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.GenerateResource.cache
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.CoreCompileInputs.cache
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.Up2Date
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\obj\Debug\QLquanGame.exe
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\obj\Debug\QLquanGame.pdb
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\bin\Debug\Resources\bim_bim_oishi.jpg
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\bin\Debug\Resources\ca_phe_sua_da.jpg
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\bin\Debug\Resources\coca_cola.jpg
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\bin\Debug\Resources\com_chien.jpg
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\bin\Debug\Resources\keo_mut_chupa_chups.jpg
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\bin\Debug\Resources\khoai_tay_chien_lays.jpg
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\bin\Debug\Resources\mi_hao_hao.jpg
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\bin\Debug\Resources\snack_bap_rang.jpg
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\bin\Debug\Resources\sting_dau.jpg
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\bin\Debug\Resources\tra_sua_tran_chau.jpg
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\bin\Debug\Resources\xuc_xich_duc.jpg
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\obj\Debug\QLquanGame.DatMon.resources
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\obj\Debug\QLquanGame.FormThemMon.resources
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\obj\Debug\QLquanGame.SuaMon.resources
+E:\Ngọc\Lập trình .NET\QLquanGame\QLquanGame\obj\Debug\QLquanGame.ucMon.resources
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\bin\Debug\Resources\bim_bim_oishi.jpg
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\bin\Debug\Resources\ca_phe_sua_da.jpg
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\bin\Debug\Resources\coca_cola.jpg
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\bin\Debug\Resources\com_chien.jpg
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\bin\Debug\Resources\keo_mut_chupa_chups.jpg
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\bin\Debug\Resources\khoai_tay_chien_lays.jpg
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\bin\Debug\Resources\mi_hao_hao.jpg
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\bin\Debug\Resources\snack_bap_rang.jpg
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\bin\Debug\Resources\sting_dau.jpg
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\bin\Debug\Resources\tra_sua_tran_chau.jpg
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\bin\Debug\Resources\xuc_xich_duc.jpg
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\bin\Debug\QLquanGame.exe.config
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\bin\Debug\QLquanGame.exe
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\bin\Debug\QLquanGame.pdb
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\bin\Debug\QLQG.BLL.dll
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\bin\Debug\QLQG.DAL.dll
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.dll
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\bin\Debug\QLQG.BLL.pdb
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\bin\Debug\QLQG.DAL.pdb
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.pdb
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.dll.config
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.DatMon.resources
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmBaotri.resources
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.FormDatMay.resources
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmHoadon.resources
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmLogin.resources
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.MainForm.resources
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.Properties.Resources.resources
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.FormThemMon.resources
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.SuaMon.resources
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.ucMon.resources
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.CopyComplete
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.exe
+C:\Users\ASUS\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.pdb
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\bin\Debug\Resources\bim_bim_oishi.jpg
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\bin\Debug\Resources\ca_phe_sua_da.jpg
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\bin\Debug\Resources\coca_cola.jpg
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\bin\Debug\Resources\com_chien.jpg
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\bin\Debug\Resources\keo_mut_chupa_chups.jpg
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\bin\Debug\Resources\khoai_tay_chien_lays.jpg
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\bin\Debug\Resources\mi_hao_hao.jpg
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\bin\Debug\Resources\snack_bap_rang.jpg
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\bin\Debug\Resources\sting_dau.jpg
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\bin\Debug\Resources\tra_sua_tran_chau.jpg
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\bin\Debug\Resources\xuc_xich_duc.jpg
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\bin\Debug\QLquanGame.exe.config
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\bin\Debug\QLquanGame.exe
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\bin\Debug\QLquanGame.pdb
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\bin\Debug\QLQG.BLL.dll
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\bin\Debug\QLQG.DAL.dll
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.dll
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\bin\Debug\QLQG.BLL.pdb
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\bin\Debug\QLQG.DAL.pdb
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.pdb
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.dll.config
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.DatMon.resources
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmBaotri.resources
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.FormDatMay.resources
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmHoadon.resources
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmLogin.resources
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.MainForm.resources
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.Properties.Resources.resources
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.FormThemMon.resources
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.SuaMon.resources
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.ucMon.resources
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.Up2Date
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.exe
+C:\Users\HP\Downloads\QLquanGame\QLquanGame\obj\Debug\QLquanGame.pdb
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\bim_bim_oishi.jpg
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\ca_phe_sua_da.jpg
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\coca_cola.jpg
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\com_chien.jpg
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\keo_mut_chupa_chups.jpg
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\khoai_tay_chien_lays.jpg
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\mi_hao_hao.jpg
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\snack_bap_rang.jpg
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\sting_dau.jpg
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\tra_sua_tran_chau.jpg
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\xuc_xich_duc.jpg
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLquanGame.exe.config
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLquanGame.exe
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLquanGame.pdb
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.BLL.dll
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.DAL.dll
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.dll
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.BLL.pdb
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.DAL.pdb
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.pdb
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.dll.config
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.AssemblyReference.cache
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.DatMon.resources
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmBaotri.resources
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmdatmay.resources
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmHoadon.resources
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmLogin.resources
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.MainForm.resources
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.Properties.Resources.resources
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.FormThemMon.resources
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.SuaMon.resources
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.ucMon.resources
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.GenerateResource.cache
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.CoreCompileInputs.cache
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.Up2Date
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.exe
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.pdb
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\bim_bim_oishi.jpg
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\ca_phe_sua_da.jpg
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\coca_cola.jpg
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\com_chien.jpg
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\keo_mut_chupa_chups.jpg
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\khoai_tay_chien_lays.jpg
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\mi_hao_hao.jpg
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\snack_bap_rang.jpg
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\sting_dau.jpg
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\tra_sua_tran_chau.jpg
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\xuc_xich_duc.jpg
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLquanGame.exe.config
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLquanGame.exe
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLquanGame.pdb
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.BLL.dll
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.DAL.dll
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.dll
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.BLL.pdb
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.DAL.pdb
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.pdb
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.dll.config
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.AssemblyReference.cache
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.DatMon.resources
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmBaotri.resources
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmdatmay.resources
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmHoadon.resources
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmLogin.resources
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.MainForm.resources
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.Properties.Resources.resources
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.FormThemMon.resources
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.SuaMon.resources
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.ucMon.resources
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.GenerateResource.cache
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.CoreCompileInputs.cache
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.Up2Date
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.exe
+E:\Ngọc\Thiết kế web\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\bim_bim_oishi.jpg
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\ca_phe_sua_da.jpg
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\coca_cola.jpg
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\com_chien.jpg
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\keo_mut_chupa_chups.jpg
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\khoai_tay_chien_lays.jpg
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\mi_hao_hao.jpg
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\snack_bap_rang.jpg
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\sting_dau.jpg
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\tra_sua_tran_chau.jpg
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\xuc_xich_duc.jpg
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLquanGame.exe.config
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLquanGame.exe
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLquanGame.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.BLL.dll
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.DAL.dll
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.dll
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.BLL.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.DAL.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.pdb
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.dll.config
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.DatMon.resources
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmBaotri.resources
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmdatmay.resources
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmHoadon.resources
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmLogin.resources
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.MainForm.resources
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.Properties.Resources.resources
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.FormThemMon.resources
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.SuaMon.resources
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.ucMon.resources
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.CopyComplete
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.exe
+C:\Users\ASUS\Documents\Zalo Received Files\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.pdb
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.AssemblyReference.cache
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.DatMon.resources
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmBaotri.resources
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmdatmay.resources
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmHoadon.resources
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmLogin.resources
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.MainForm.resources
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.Properties.Resources.resources
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.FormThemMon.resources
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.SuaMon.resources
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.ucMon.resources
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.GenerateResource.cache
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.CoreCompileInputs.cache
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\bim_bim_oishi.jpg
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\ca_phe_sua_da.jpg
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\coca_cola.jpg
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\com_chien.jpg
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\keo_mut_chupa_chups.jpg
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\khoai_tay_chien_lays.jpg
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\mi_hao_hao.jpg
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\snack_bap_rang.jpg
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\sting_dau.jpg
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\tra_sua_tran_chau.jpg
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\bin\Debug\Resources\xuc_xich_duc.jpg
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLquanGame.exe.config
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLquanGame.exe
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLquanGame.pdb
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.DAL.dll
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.dll
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.DAL.pdb
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.pdb
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.dll.config
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.Up2Date
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.exe
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLquanGame\obj\Debug\QLquanGame.pdb
+C:\QLquanGame\QLquanGame\bin\Debug\Resources\bim_bim_oishi.jpg
+C:\QLquanGame\QLquanGame\bin\Debug\Resources\ca_phe_sua_da.jpg
+C:\QLquanGame\QLquanGame\bin\Debug\Resources\coca_cola.jpg
+C:\QLquanGame\QLquanGame\bin\Debug\Resources\com_chien.jpg
+C:\QLquanGame\QLquanGame\bin\Debug\Resources\keo_mut_chupa_chups.jpg
+C:\QLquanGame\QLquanGame\bin\Debug\Resources\khoai_tay_chien_lays.jpg
+C:\QLquanGame\QLquanGame\bin\Debug\Resources\mi_hao_hao.jpg
+C:\QLquanGame\QLquanGame\bin\Debug\Resources\snack_bap_rang.jpg
+C:\QLquanGame\QLquanGame\bin\Debug\Resources\sting_dau.jpg
+C:\QLquanGame\QLquanGame\bin\Debug\Resources\tra_sua_tran_chau.jpg
+C:\QLquanGame\QLquanGame\bin\Debug\Resources\xuc_xich_duc.jpg
+C:\QLquanGame\QLquanGame\bin\Debug\QLquanGame.exe.config
+C:\QLquanGame\QLquanGame\bin\Debug\QLquanGame.exe
+C:\QLquanGame\QLquanGame\bin\Debug\QLquanGame.pdb
+C:\QLquanGame\QLquanGame\bin\Debug\QLQG.DAL.dll
+C:\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.dll
+C:\QLquanGame\QLquanGame\bin\Debug\QLQG.DAL.pdb
+C:\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.pdb
+C:\QLquanGame\QLquanGame\bin\Debug\QLQG.DTO.dll.config
+C:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.AssemblyReference.cache
+C:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.DatMon.resources
+C:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmBaotri.resources
+C:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmdatmay.resources
+C:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmHoadon.resources
+C:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.frmLogin.resources
+C:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.MainForm.resources
+C:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.Properties.Resources.resources
+C:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.FormThemMon.resources
+C:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.SuaMon.resources
+C:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.ucMon.resources
+C:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.GenerateResource.cache
+C:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.CoreCompileInputs.cache
+C:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.csproj.Up2Date
+C:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.exe
+C:\QLquanGame\QLquanGame\obj\Debug\QLquanGame.pdb

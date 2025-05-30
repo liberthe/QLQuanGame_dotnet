@@ -1,0 +1,54 @@
+D:\QLquanGame\QLQG.DTO\bin\Debug\QLQG.DTO.dll.config
+D:\QLquanGame\QLQG.DTO\bin\Debug\QLQG.DTO.dll
+D:\QLquanGame\QLQG.DTO\bin\Debug\QLQG.DTO.pdb
+D:\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.csproj.AssemblyReference.cache
+D:\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.Properties.Resources.resources
+D:\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.csproj.GenerateResource.cache
+D:\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.csproj.CoreCompileInputs.cache
+D:\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.dll
+D:\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.pdb
+E:\Ngọc\Lập trình .NET\QLquanGame\QLQG.DTO\bin\Debug\QLQG.DTO.dll.config
+E:\Ngọc\Lập trình .NET\QLquanGame\QLQG.DTO\bin\Debug\QLQG.DTO.dll
+E:\Ngọc\Lập trình .NET\QLquanGame\QLQG.DTO\bin\Debug\QLQG.DTO.pdb
+E:\Ngọc\Lập trình .NET\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.csproj.AssemblyReference.cache
+E:\Ngọc\Lập trình .NET\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.Properties.Resources.resources
+E:\Ngọc\Lập trình .NET\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.csproj.GenerateResource.cache
+E:\Ngọc\Lập trình .NET\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.csproj.CoreCompileInputs.cache
+E:\Ngọc\Lập trình .NET\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.dll
+E:\Ngọc\Lập trình .NET\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.pdb
+C:\Users\HP\Downloads\QLquanGame\QLQG.DTO\bin\Debug\QLQG.DTO.dll.config
+C:\Users\HP\Downloads\QLquanGame\QLQG.DTO\bin\Debug\QLQG.DTO.dll
+C:\Users\HP\Downloads\QLquanGame\QLQG.DTO\bin\Debug\QLQG.DTO.pdb
+C:\Users\HP\Downloads\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.Properties.Resources.resources
+C:\Users\HP\Downloads\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.dll
+C:\Users\HP\Downloads\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.pdb
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLQG.DTO\bin\Debug\QLQG.DTO.dll.config
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLQG.DTO\bin\Debug\QLQG.DTO.dll
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLQG.DTO\bin\Debug\QLQG.DTO.pdb
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.csproj.AssemblyReference.cache
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.Properties.Resources.resources
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.csproj.GenerateResource.cache
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.csproj.CoreCompileInputs.cache
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.dll
+D:\tài liệu học tập\BTL .net\QLquanGame\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.pdb
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLQG.DTO\bin\Debug\QLQG.DTO.dll.config
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLQG.DTO\bin\Debug\QLQG.DTO.dll
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLQG.DTO\bin\Debug\QLQG.DTO.pdb
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.csproj.AssemblyReference.cache
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.Properties.Resources.resources
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.csproj.GenerateResource.cache
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.dll
+C:\Users\Mias PC\Downloads\QLquanGame\QLquanGame\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.pdb
+C:\QLquanGame\QLQG.DTO\bin\Debug\QLQG.DTO.dll.config
+C:\QLquanGame\QLQG.DTO\bin\Debug\QLQG.DTO.dll
+C:\QLquanGame\QLQG.DTO\bin\Debug\QLQG.DTO.pdb
+C:\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.csproj.AssemblyReference.cache
+C:\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.Properties.Resources.resources
+C:\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.csproj.GenerateResource.cache
+C:\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.csproj.CoreCompileInputs.cache
+C:\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.dll
+C:\QLquanGame\QLQG.DTO\obj\Debug\QLQG.DTO.pdb

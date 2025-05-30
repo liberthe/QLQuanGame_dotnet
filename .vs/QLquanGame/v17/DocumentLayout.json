@@ -1,0 +1,1047 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\QLquanGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|c:\\qlquangame\\qlqg.dal\\nhabaotridal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|solutionrelative:qlqg.dal\\nhabaotridal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|c:\\qlquangame\\qlqg.dto\\nhabaotridto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|solutionrelative:qlqg.dto\\nhabaotridto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|C:\\QLquanGame\\qlquangame\\frmbaotri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:qlquangame\\frmbaotri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|C:\\QLquanGame\\qlquangame\\frmbaotri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:qlquangame\\frmbaotri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|C:\\QLquanGame\\qlqg.dal\\baotridal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|solutionrelative:qlqg.dal\\baotridal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\QLquanGame\\ProdBaotri_DatMay.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProdBaotri_DatMay.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|C:\\QLquanGame\\qlqg.dto\\nhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|solutionrelative:qlqg.dto\\nhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|C:\\QLquanGame\\qlqg.dto\\chitietbtdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|solutionrelative:qlqg.dto\\chitietbtdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|C:\\QLquanGame\\qlqg.dto\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|solutionrelative:qlqg.dto\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|c:\\qlquangame\\qlquangame\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:qlquangame\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|C:\\QLquanGame\\qlquangame\\ucmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:qlquangame\\ucmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|C:\\QLquanGame\\qlquangame\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:qlquangame\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|C:\\QLquanGame\\qlquangame\\datmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:qlquangame\\datmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|C:\\QLquanGame\\qlquangame\\frmdatmay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:qlquangame\\frmdatmay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|C:\\QLquanGame\\QLquanGame\\frmLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:QLquanGame\\frmLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|C:\\QLquanGame\\qlqg.dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|solutionrelative:qlqg.dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\QLquanGame\\prodHoadon.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:prodHoadon.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|C:\\QLquanGame\\qlquangame\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:qlquangame\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|C:\\QLquanGame\\qlquangame\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:qlquangame\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|C:\\QLquanGame\\QLquanGame\\frmMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:QLquanGame\\frmMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|C:\\QLquanGame\\qlquangame\\frmdatmay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:qlquangame\\frmdatmay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|C:\\QLquanGame\\qlquangame\\suamon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:qlquangame\\suamon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|C:\\QLquanGame\\qlquangame\\formthemmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:qlquangame\\formthemmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\QLquanGame\\Prod_update_database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Prod_update_database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|C:\\QLquanGame\\qlquangame\\datmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:qlquangame\\datmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|C:\\QLquanGame\\qlqg.dal\\maytinhdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|solutionrelative:qlqg.dal\\maytinhdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|C:\\QLquanGame\\qlqg.dal\\thuemaydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|solutionrelative:qlqg.dal\\thuemaydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|C:\\QLquanGame\\qlqg.dal\\giaiphapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|solutionrelative:qlqg.dal\\giaiphapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|C:\\QLquanGame\\qlqg.dal\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|solutionrelative:qlqg.dal\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|C:\\QLquanGame\\qlqg.dto\\thuemaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|solutionrelative:qlqg.dto\\thuemaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|C:\\QLquanGame\\qlquangame\\frmdatmay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:qlquangame\\frmdatmay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|C:\\QLquanGame\\qlquangame\\frmdatmay.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:qlquangame\\frmdatmay.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|C:\\QLquanGame\\qlqg.dto\\maytinhdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|solutionrelative:qlqg.dto\\maytinhdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|C:\\QLquanGame\\qlqg.dto\\maytinhdtoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|solutionrelative:qlqg.dto\\maytinhdtoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|C:\\QLquanGame\\qlqg.dal\\maytinh dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|solutionrelative:qlqg.dal\\maytinh dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|C:\\QLquanGame\\qlqg.dal\\phongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|solutionrelative:qlqg.dal\\phongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|C:\\QLquanGame\\qlqg.dto\\phongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|solutionrelative:qlqg.dto\\phongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|C:\\QLquanGame\\QLQG.DAL\\LoginDAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|solutionrelative:QLQG.DAL\\LoginDAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|C:\\QLquanGame\\qlquangame\\suamon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:qlquangame\\suamon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|C:\\QLquanGame\\qlquangame\\ucmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:qlquangame\\ucmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|C:\\QLquanGame\\qlquangame\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:qlquangame\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|C:\\QLquanGame\\qlquangame\\formthemmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:qlquangame\\formthemmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|C:\\QLquanGame\\qlqg.dal\\nhanviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|solutionrelative:qlqg.dal\\nhanviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|C:\\QLquanGame\\qlqg.dal\\billingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|solutionrelative:qlqg.dal\\billingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\QLquanGame\\prodDatmon.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:prodDatmon.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|C:\\QLquanGame\\qlqg.dal\\goimondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|solutionrelative:qlqg.dal\\goimondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|C:\\QLquanGame\\qlqg.dto\\mon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|solutionrelative:qlqg.dto\\mon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|C:\\QLquanGame\\qlquangame\\suamon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:qlquangame\\suamon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|C:\\QLquanGame\\qlqg.dal\\mondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|solutionrelative:qlqg.dal\\mondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|C:\\QLquanGame\\qlqg.dal\\goimondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|solutionrelative:qlqg.dal\\goimondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|C:\\QLquanGame\\qlqg.dal\\nguyennhandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|solutionrelative:qlqg.dal\\nguyennhandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|C:\\QLquanGame\\qlqg.dto\\giaiphapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|solutionrelative:qlqg.dto\\giaiphapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|C:\\QLquanGame\\qlqg.dto\\baotridto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|solutionrelative:qlqg.dto\\baotridto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|C:\\QLquanGame\\qlqg.dto\\tinhtrangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|solutionrelative:qlqg.dto\\tinhtrangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|C:\\QLquanGame\\qlqg.dal\\tinhtrangdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|solutionrelative:qlqg.dal\\tinhtrangdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|C:\\QLquanGame\\qlqg.dto\\nguyennhandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|solutionrelative:qlqg.dto\\nguyennhandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\QLquanGame\\sqlQuanGame.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sqlQuanGame.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|C:\\QLquanGame\\qlqg.dto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0783C848-5C04-4FA8-A2B3-8F126A36262C}|QLQG.DTO\\QLQG.DTO.csproj|solutionrelative:qlqg.dto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|C:\\QLquanGame\\qlqg.dal\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CB2CB27A-ECE7-41B6-816B-CD546B9C32CC}|QLQG.DAL\\QLQG.DAL.csproj|solutionrelative:qlqg.dal\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|C:\\QLquanGame\\QLquanGame\\frmMain.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:QLquanGame\\frmMain.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mias PC\\Downloads\\QLquanGame\\QLquanGame\\QLquanGame\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|C:\\QLquanGame\\qlquangame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B627A024-9D2F-440E-B1F3-690AA2E4BA05}|QLquanGame\\QLquanGame.csproj|solutionrelative:qlquangame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\t\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\BTL .net\\QLquannet-main\\QLquannet\\frmComputer.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\t\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\BTL .net\\QLquannet-main\\QLquannet\\frmComputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\QLquanGame\\ProdBaotri_DatMay.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProdBaotri_DatMay.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\QLquanGame\\ProdBaotri_DatMay.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProdBaotri_DatMay.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhaBaoTriDAL.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DAL\\NhaBaoTriDAL.cs",
+              "RelativeDocumentMoniker": "QLQG.DAL\\NhaBaoTriDAL.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DAL\\NhaBaoTriDAL.cs",
+              "RelativeToolTip": "QLQG.DAL\\NhaBaoTriDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T11:32:58.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhaBaoTriDTO.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DTO\\NhaBaoTriDTO.cs",
+              "RelativeDocumentMoniker": "QLQG.DTO\\NhaBaoTriDTO.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DTO\\NhaBaoTriDTO.cs",
+              "RelativeToolTip": "QLQG.DTO\\NhaBaoTriDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T11:32:18.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdBaotri_DatMay.sql ",
+              "DocumentMoniker": "C:\\QLquanGame\\ProdBaotri_DatMay.sql",
+              "RelativeDocumentMoniker": "ProdBaotri_DatMay.sql",
+              "ToolTip": "ProdBaotri_DatMay.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-27T17:18:48.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmBaotri.cs [Design]",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\frmBaotri.cs",
+              "RelativeDocumentMoniker": "QLquanGame\\frmBaotri.cs",
+              "ToolTip": "C:\\QLquanGame\\QLquanGame\\frmBaotri.cs [Design]",
+              "RelativeToolTip": "QLquanGame\\frmBaotri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:14:55.617Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmBaotri.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\frmBaotri.cs",
+              "RelativeDocumentMoniker": "QLquanGame\\frmBaotri.cs",
+              "ToolTip": "C:\\QLquanGame\\QLquanGame\\frmBaotri.cs",
+              "RelativeToolTip": "QLquanGame\\frmBaotri.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAlwMUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:00:06.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaotriDAL.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DAL\\BaotriDAL.cs",
+              "RelativeDocumentMoniker": "QLQG.DAL\\BaotriDAL.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DAL\\BaotriDAL.cs",
+              "RelativeToolTip": "QLQG.DAL\\BaotriDAL.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:03:21.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmHoadon.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\frmHoadon.cs",
+              "RelativeDocumentMoniker": "QLquanGame\\frmHoadon.cs",
+              "ToolTip": "C:\\QLquanGame\\QLquanGame\\frmHoadon.cs",
+              "RelativeToolTip": "QLquanGame\\frmHoadon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:21:10.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmHoadon.cs [Design]",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\frmHoadon.cs",
+              "RelativeDocumentMoniker": "QLquanGame\\frmHoadon.cs",
+              "ToolTip": "C:\\QLquanGame\\QLquanGame\\frmHoadon.cs [Design]",
+              "RelativeToolTip": "QLquanGame\\frmHoadon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:49:45.237Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NhanvienDTO.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DTO\\NhanvienDTO.cs",
+              "RelativeDocumentMoniker": "QLQG.DTO\\NhanvienDTO.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DTO\\NhanvienDTO.cs",
+              "RelativeToolTip": "QLQG.DTO\\NhanvienDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:06:29.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChitietBTDTO.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DTO\\ChitietBTDTO.cs",
+              "RelativeDocumentMoniker": "QLQG.DTO\\ChitietBTDTO.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DTO\\ChitietBTDTO.cs",
+              "RelativeToolTip": "QLQG.DTO\\ChitietBTDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:06:44.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hoadon.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DTO\\Hoadon.cs",
+              "RelativeDocumentMoniker": "QLQG.DTO\\Hoadon.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DTO\\Hoadon.cs",
+              "RelativeToolTip": "QLQG.DTO\\Hoadon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:05:22.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ucMon.cs [Design]",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\ucMon.cs",
+              "RelativeDocumentMoniker": "QLquanGame\\ucMon.cs",
+              "ToolTip": "C:\\QLquanGame\\QLquanGame\\ucMon.cs [Design]",
+              "RelativeToolTip": "QLquanGame\\ucMon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:12:01.529Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DatMon.cs [Design]",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\DatMon.cs",
+              "RelativeDocumentMoniker": "QLquanGame\\DatMon.cs",
+              "ToolTip": "C:\\Users\\Mias PC\\Downloads\\QLquanGame\\QLquanGame\\QLquanGame\\QLquanGame\\DatMon.cs [Design]",
+              "RelativeToolTip": "..\\Users\\Mias PC\\Downloads\\QLquanGame\\QLquanGame\\QLquanGame\\QLquanGame\\DatMon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:24:01.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmdatmay.cs [Design]",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\frmdatmay.cs",
+              "RelativeDocumentMoniker": "QLquanGame\\frmdatmay.cs",
+              "ToolTip": "C:\\Users\\Mias PC\\Downloads\\QLquanGame\\QLquanGame\\QLquanGame\\QLquanGame\\frmdatmay.cs [Design]",
+              "RelativeToolTip": "..\\Users\\Mias PC\\Downloads\\QLquanGame\\QLquanGame\\QLquanGame\\QLquanGame\\frmdatmay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:58:25.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\frmLogin.cs",
+              "RelativeDocumentMoniker": "QLquanGame\\frmLogin.cs",
+              "ToolTip": "C:\\QLquanGame\\QLquanGame\\frmLogin.cs",
+              "RelativeToolTip": "QLquanGame\\frmLogin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:04:58.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "QLQG.DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DTO\\LoginDTO.cs",
+              "RelativeToolTip": "QLQG.DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:37:30.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "prodHoadon.sql",
+              "DocumentMoniker": "C:\\QLquanGame\\prodHoadon.sql",
+              "RelativeDocumentMoniker": "prodHoadon.sql",
+              "ToolTip": "C:\\QLquanGame\\prodHoadon.sql",
+              "RelativeToolTip": "prodHoadon.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-27T18:27:41.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\frmMain.cs",
+              "RelativeDocumentMoniker": "QLquanGame\\frmMain.cs",
+              "ToolTip": "C:\\QLquanGame\\QLquanGame\\frmMain.cs",
+              "RelativeToolTip": "QLquanGame\\frmMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:52:56.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\frmLogin.cs",
+              "RelativeDocumentMoniker": "QLquanGame\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Mias PC\\Downloads\\QLquanGame\\QLquanGame\\QLquanGame\\QLquanGame\\frmLogin.cs [Design]",
+              "RelativeToolTip": "..\\Users\\Mias PC\\Downloads\\QLquanGame\\QLquanGame\\QLquanGame\\QLquanGame\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:28:24.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmdatmay.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\frmdatmay.cs",
+              "RelativeDocumentMoniker": "QLquanGame\\frmdatmay.cs",
+              "ToolTip": "C:\\QLquanGame\\QLquanGame\\frmdatmay.cs",
+              "RelativeToolTip": "QLquanGame\\frmdatmay.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAYwEoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:31:47.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GiaiphapDAL.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DAL\\GiaiphapDAL.cs",
+              "RelativeDocumentMoniker": "QLQG.DAL\\GiaiphapDAL.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DAL\\GiaiphapDAL.cs",
+              "RelativeToolTip": "QLQG.DAL\\GiaiphapDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:20:35.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ThuemayDTO.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DTO\\ThuemayDTO.cs",
+              "RelativeDocumentMoniker": "QLQG.DTO\\ThuemayDTO.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DTO\\ThuemayDTO.cs",
+              "RelativeToolTip": "QLQG.DTO\\ThuemayDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:46:54.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MayTinh DAL.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DAL\\MayTinh DAL.cs",
+              "RelativeDocumentMoniker": "QLQG.DAL\\MayTinh DAL.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DAL\\MayTinh DAL.cs",
+              "RelativeToolTip": "QLQG.DAL\\MayTinh DAL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAEwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:54:51.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DAL\\DataProvider.cs",
+              "RelativeDocumentMoniker": "QLQG.DAL\\DataProvider.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DAL\\DataProvider.cs",
+              "RelativeToolTip": "QLQG.DAL\\DataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:53:52.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PhongDAL.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DAL\\PhongDAL.cs",
+              "RelativeDocumentMoniker": "QLQG.DAL\\PhongDAL.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DAL\\PhongDAL.cs",
+              "RelativeToolTip": "QLQG.DAL\\PhongDAL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T00:38:43.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmdatmay.resx",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\frmdatmay.resx",
+              "RelativeDocumentMoniker": "QLquanGame\\frmdatmay.resx",
+              "ToolTip": "C:\\QLquanGame\\QLquanGame\\frmdatmay.resx",
+              "RelativeToolTip": "QLquanGame\\frmdatmay.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-27T20:06:48.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmdatmay.Designer.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\frmdatmay.Designer.cs",
+              "RelativeDocumentMoniker": "QLquanGame\\frmdatmay.Designer.cs",
+              "ToolTip": "C:\\QLquanGame\\QLquanGame\\frmdatmay.Designer.cs",
+              "RelativeToolTip": "QLquanGame\\frmdatmay.Designer.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAjwNkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:06:49.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MaytinhDTO.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DTO\\MaytinhDTO.cs",
+              "RelativeDocumentMoniker": "QLQG.DTO\\MaytinhDTO.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DTO\\MaytinhDTO.cs",
+              "RelativeToolTip": "QLQG.DTO\\MaytinhDTO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:45:12.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MaytinhDTOo.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DTO\\MaytinhDTOo.cs",
+              "RelativeDocumentMoniker": "QLQG.DTO\\MaytinhDTOo.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DTO\\MaytinhDTOo.cs",
+              "RelativeToolTip": "QLQG.DTO\\MaytinhDTOo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:07:26.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PhongDTO.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DTO\\PhongDTO.cs",
+              "RelativeDocumentMoniker": "QLQG.DTO\\PhongDTO.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DTO\\PhongDTO.cs",
+              "RelativeToolTip": "QLQG.DTO\\PhongDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:41:31.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\frmMain.cs",
+              "RelativeDocumentMoniker": "QLquanGame\\frmMain.cs",
+              "ToolTip": "C:\\Users\\Mias PC\\Downloads\\QLquanGame\\QLquanGame\\QLquanGame\\QLquanGame\\frmMain.cs [Design]",
+              "RelativeToolTip": "..\\Users\\Mias PC\\Downloads\\QLquanGame\\QLquanGame\\QLquanGame\\QLquanGame\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T20:14:10.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SuaMon.cs [Design]",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\SuaMon.cs",
+              "RelativeDocumentMoniker": "QLquanGame\\SuaMon.cs",
+              "ToolTip": "C:\\Users\\Mias PC\\Downloads\\QLquanGame\\QLquanGame\\QLquanGame\\QLquanGame\\SuaMon.cs [Design]",
+              "RelativeToolTip": "..\\Users\\Mias PC\\Downloads\\QLquanGame\\QLquanGame\\QLquanGame\\QLquanGame\\SuaMon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:44:39.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormThemMon.cs [Design]",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\FormThemMon.cs",
+              "RelativeDocumentMoniker": "QLquanGame\\FormThemMon.cs",
+              "ToolTip": "C:\\Users\\Mias PC\\Downloads\\QLquanGame\\QLquanGame\\QLquanGame\\QLquanGame\\FormThemMon.cs [Design]",
+              "RelativeToolTip": "..\\Users\\Mias PC\\Downloads\\QLquanGame\\QLquanGame\\QLquanGame\\QLquanGame\\FormThemMon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:40:41.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Prod_update_database.sql",
+              "DocumentMoniker": "C:\\QLquanGame\\Prod_update_database.sql",
+              "RelativeDocumentMoniker": "Prod_update_database.sql",
+              "ToolTip": "C:\\QLquanGame\\Prod_update_database.sql",
+              "RelativeToolTip": "Prod_update_database.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-28T04:56:26.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DatMon.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\DatMon.cs",
+              "RelativeDocumentMoniker": "QLquanGame\\DatMon.cs",
+              "ToolTip": "C:\\QLquanGame\\QLquanGame\\DatMon.cs",
+              "RelativeToolTip": "QLquanGame\\DatMon.cs",
+              "ViewState": "AgIAAIkBAAAAAAAAAAAowHsCAACoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:25:28.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MaytinhDAL.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DAL\\MaytinhDAL.cs",
+              "RelativeDocumentMoniker": "QLQG.DAL\\MaytinhDAL.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DAL\\MaytinhDAL.cs",
+              "RelativeToolTip": "QLQG.DAL\\MaytinhDAL.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:14:04.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ThuemayDAL.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DAL\\ThuemayDAL.cs",
+              "RelativeDocumentMoniker": "QLQG.DAL\\ThuemayDAL.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DAL\\ThuemayDAL.cs",
+              "RelativeToolTip": "QLQG.DAL\\ThuemayDAL.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA8wE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:55:41.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SuaMon.Designer.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\SuaMon.Designer.cs",
+              "RelativeDocumentMoniker": "QLquanGame\\SuaMon.Designer.cs",
+              "ToolTip": "C:\\QLquanGame\\QLquanGame\\SuaMon.Designer.cs",
+              "RelativeToolTip": "QLquanGame\\SuaMon.Designer.cs",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAuwA0BAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:54:46.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LoginDAL.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DAL\\LoginDAL.cs",
+              "RelativeDocumentMoniker": "QLQG.DAL\\LoginDAL.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DAL\\LoginDAL.cs",
+              "RelativeToolTip": "QLQG.DAL\\LoginDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:32:45.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FormThemMon.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\FormThemMon.cs",
+              "RelativeDocumentMoniker": "QLquanGame\\FormThemMon.cs",
+              "ToolTip": "C:\\QLquanGame\\QLquanGame\\FormThemMon.cs",
+              "RelativeToolTip": "QLquanGame\\FormThemMon.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:41:21.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BillingDAL.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DAL\\BillingDAL.cs",
+              "RelativeDocumentMoniker": "QLQG.DAL\\BillingDAL.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DAL\\BillingDAL.cs",
+              "RelativeToolTip": "QLQG.DAL\\BillingDAL.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAewHUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T14:57:09.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ucMon.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\ucMon.cs",
+              "RelativeDocumentMoniker": "QLquanGame\\ucMon.cs",
+              "ToolTip": "C:\\QLquanGame\\QLquanGame\\ucMon.cs",
+              "RelativeToolTip": "QLquanGame\\ucMon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:13:12.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "QLquanGame\\frmLogin.Designer.cs",
+              "ToolTip": "C:\\QLquanGame\\QLquanGame\\frmLogin.Designer.cs",
+              "RelativeToolTip": "QLquanGame\\frmLogin.Designer.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADgvzYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:08:13.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "NhanVienDAL.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DAL\\NhanVienDAL.cs",
+              "RelativeDocumentMoniker": "QLQG.DAL\\NhanVienDAL.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DAL\\NhanVienDAL.cs",
+              "RelativeToolTip": "QLQG.DAL\\NhanVienDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:49:44.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "prodDatmon.sql",
+              "DocumentMoniker": "C:\\QLquanGame\\prodDatmon.sql",
+              "RelativeDocumentMoniker": "prodDatmon.sql",
+              "ToolTip": "C:\\QLquanGame\\prodDatmon.sql",
+              "RelativeToolTip": "prodDatmon.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-27T17:12:46.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "goimonDAL.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DAL\\goimonDAL.cs",
+              "RelativeDocumentMoniker": "QLQG.DAL\\goimonDAL.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DAL\\goimonDAL.cs",
+              "RelativeToolTip": "QLQG.DAL\\goimonDAL.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T00:38:05.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Mon.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DTO\\Mon.cs",
+              "RelativeDocumentMoniker": "QLQG.DTO\\Mon.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DTO\\Mon.cs",
+              "RelativeToolTip": "QLQG.DTO\\Mon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:15:04.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SuaMon.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\SuaMon.cs",
+              "RelativeDocumentMoniker": "QLquanGame\\SuaMon.cs",
+              "ToolTip": "C:\\QLquanGame\\QLquanGame\\SuaMon.cs",
+              "RelativeToolTip": "QLquanGame\\SuaMon.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAawCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:45:09.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MonDAO.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DAL\\MonDAO.cs",
+              "RelativeDocumentMoniker": "QLQG.DAL\\MonDAO.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DAL\\MonDAO.cs",
+              "RelativeToolTip": "QLQG.DAL\\MonDAO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:14:20.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "GoiMonDAO.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DAL\\GoiMonDAO.cs",
+              "RelativeDocumentMoniker": "QLQG.DAL\\GoiMonDAO.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DAL\\GoiMonDAO.cs",
+              "RelativeToolTip": "QLQG.DAL\\GoiMonDAO.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAvwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:31:36.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "NguyennhanDAL.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DAL\\NguyennhanDAL.cs",
+              "RelativeDocumentMoniker": "QLQG.DAL\\NguyennhanDAL.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DAL\\NguyennhanDAL.cs",
+              "RelativeToolTip": "QLQG.DAL\\NguyennhanDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:19:34.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GiaiphapDTO.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DTO\\GiaiphapDTO.cs",
+              "RelativeDocumentMoniker": "QLQG.DTO\\GiaiphapDTO.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DTO\\GiaiphapDTO.cs",
+              "RelativeToolTip": "QLQG.DTO\\GiaiphapDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:05:47.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BaotriDTO.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DTO\\BaotriDTO.cs",
+              "RelativeDocumentMoniker": "QLQG.DTO\\BaotriDTO.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DTO\\BaotriDTO.cs",
+              "RelativeToolTip": "QLQG.DTO\\BaotriDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:03:52.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TinhtrangDTO.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DTO\\TinhtrangDTO.cs",
+              "RelativeDocumentMoniker": "QLQG.DTO\\TinhtrangDTO.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DTO\\TinhtrangDTO.cs",
+              "RelativeToolTip": "QLQG.DTO\\TinhtrangDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:04:38.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "TinhtrangDAL.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DAL\\TinhtrangDAL.cs",
+              "RelativeDocumentMoniker": "QLQG.DAL\\TinhtrangDAL.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DAL\\TinhtrangDAL.cs",
+              "RelativeToolTip": "QLQG.DAL\\TinhtrangDAL.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:18:50.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "NguyennhanDTO.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DTO\\NguyennhanDTO.cs",
+              "RelativeDocumentMoniker": "QLQG.DTO\\NguyennhanDTO.cs",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DTO\\NguyennhanDTO.cs",
+              "RelativeToolTip": "QLQG.DTO\\NguyennhanDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:05:58.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "sqlQuanGame.sql",
+              "DocumentMoniker": "C:\\QLquanGame\\sqlQuanGame.sql",
+              "RelativeDocumentMoniker": "sqlQuanGame.sql",
+              "ToolTip": "C:\\QLquanGame\\sqlQuanGame.sql",
+              "RelativeToolTip": "sqlQuanGame.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-26T11:59:06.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DTO\\App.config",
+              "RelativeDocumentMoniker": "QLQG.DTO\\App.config",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DTO\\App.config",
+              "RelativeToolTip": "QLQG.DTO\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-26T04:59:23.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\QLquanGame\\QLQG.DAL\\packages.config",
+              "RelativeDocumentMoniker": "QLQG.DAL\\packages.config",
+              "ToolTip": "C:\\QLquanGame\\QLQG.DAL\\packages.config",
+              "RelativeToolTip": "QLQG.DAL\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-24T09:05:11.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "frmMain.Designer.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\frmMain.Designer.cs",
+              "RelativeDocumentMoniker": "QLquanGame\\frmMain.Designer.cs",
+              "ToolTip": "C:\\QLquanGame\\QLquanGame\\frmMain.Designer.cs",
+              "RelativeToolTip": "QLquanGame\\frmMain.Designer.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAUwKUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:14:09.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\Mias PC\\Downloads\\QLquanGame\\QLquanGame\\QLquanGame\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "..\\Users\\Mias PC\\Downloads\\QLquanGame\\QLquanGame\\QLquanGame\\SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\Mias PC\\Downloads\\QLquanGame\\QLquanGame\\QLquanGame\\SQLQuery1.sql",
+              "RelativeToolTip": "..\\Users\\Mias PC\\Downloads\\QLquanGame\\QLquanGame\\QLquanGame\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-26T02:59:39.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "frmComputer.Designer.cs",
+              "DocumentMoniker": "D:\\t\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\BTL .net\\QLquannet-main\\QLquannet\\frmComputer.Designer.cs",
+              "ToolTip": "D:\\t\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\BTL .net\\QLquannet-main\\QLquannet\\frmComputer.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:40:23.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "frmComputer.cs",
+              "DocumentMoniker": "D:\\t\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\BTL .net\\QLquannet-main\\QLquannet\\frmComputer.cs",
+              "ToolTip": "D:\\t\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\BTL .net\\QLquannet-main\\QLquannet\\frmComputer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:39:50.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\QLquanGame\\QLquanGame\\Program.cs",
+              "RelativeDocumentMoniker": "QLquanGame\\Program.cs",
+              "ToolTip": "C:\\QLquanGame\\QLquanGame\\Program.cs",
+              "RelativeToolTip": "QLquanGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T01:10:58.831Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
